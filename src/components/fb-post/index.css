@@ -1,0 +1,25 @@
+.avatar img{
+    border-radius: 50%;
+    width:100px;
+    height: 100px;
+}
+body{
+    background-color: #f0f2f5;
+}
+.my-conatiner{
+    display: flex;
+    width: 50vw;
+    background-color: #fff;
+    margin: 10px auto;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.avatar{
+    display: inline-flex;
+    margin:10px;
+}
+h1,h3,p{
+ text-align: left;
+ margin: 0 10px!important;
+}
